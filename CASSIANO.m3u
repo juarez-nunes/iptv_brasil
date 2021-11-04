@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/juarez-nunes/iptv_brasil/main/lineup.net.br.channels.xml"
+﻿#EXTM3U tvg-url="https://raw.githubusercontent.com/juarez-nunes/iptv_brasil/main/lineup.net.br.channels.xml"
 #EXTINF:-1 group-title="BRASIL" tvg-id="Futura.br" tvg-name="Futura" tvg-logo="https://sites.google.com/site/logosiptv/" ,Futura
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12957
 #EXTINF:-1 group-title="BRASIL" tvg-id="TVCamara.br" tvg-name="TV Camara" ,TV Camara

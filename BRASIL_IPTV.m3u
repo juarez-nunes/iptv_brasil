@@ -1,10 +1,50 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/5g28ne75xxsz9jvnzpe9"
-#EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E 4K" tvg-logo="Logo N/A" group-title="Undefined",A&E 4K
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="Music",1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",3 PALAVRINHAS
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/670?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A CASA DO MICKEY MOUSE
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/671?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA 13
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/830?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA 13 CAM 01
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/836?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA 13 CAM 02
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/837?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA 13 CAM 03
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/839?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA 13 CAM 04
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/838?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA 13 CAM 05
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/840?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA 13 CAM 08
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/843?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA 13 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/844?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A Fazenda 13 HD¹
+http://ddns.phdtv.club:80/juanvods/Adxsdere/109757?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A RODA DO ONIBUS
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/675?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E 4K
 http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/225?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FullHD H264" tvg-logo="Logo N/A" group-title="Undefined",A&E FullHD H264
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31268?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FullHD H264
 http://ddns.phdtv.club:80/juanvods/Adxsdere/81160?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E HD" tvg-logo="Logo N/A" group-title="Undefined",A&E HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
+http://solutionplay.xyz:8080/techruthes/10987658/6427?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
 http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/226?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
+http://tv.factoryiptv.com:80/Denis111/Denis111/36929?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
+http://home-playtv.com:8080/LatinoAmericanaTV/HetyJC567sfdh/151484?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
+http://ddns.phdtv.club:80/juanvods/Adxsdere/4?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ALADDIN
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/676?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC 4K" tvg-logo="Logo N/A" group-title="Undefined",AMC 4K
 http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/228?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC DUAL" tvg-logo="Logo N/A" group-title="Undefined",AMC DUAL

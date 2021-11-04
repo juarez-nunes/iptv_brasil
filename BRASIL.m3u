@@ -1,0 +1,1545 @@
+﻿#EXTM3U url-tvg="http://epg.ott-play.com/php/show_prow.php?f=acidjesus/guide.xml"
+#EXTINF:-1 group-title="Undefined" tvg-id="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml" tvg-name="A&E 4K" tvg-logo="Logo N/A" ,,A&E 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/225?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="https://github.com/juarez-nunes/iptv_brasil/blob/main/netcombo.com.br.channels.xml" tvg-name="A&E FullHD H264" tvg-logo="Logo N/A" ,,A&E FullHD H264
+http://ddns.phdtv.club:80/juanvods/Adxsdere/81160?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="http://5.189.145.135/EPG/tvguide.xml" tvg-name="A&E HD" tvg-logo="Logo N/A" ,,A&E HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/226?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="http://5.189.145.135/EPG/tvguide.xml" tvg-name="AMC 4K" tvg-logo="Logo N/A" ,,AMC 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/228?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="AMC DUAL" tvg-logo="Logo N/A" ,,AMC DUAL
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/790?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="AMC FHDR" tvg-logo="Logo N/A" ,,AMC FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/3683?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="AMC FullHD H264" tvg-logo="Logo N/A" ,,AMC FullHD H264
+http://ddns.phdtv.club:80/juanvods/Adxsdere/82852?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="AMC H265" tvg-logo="Logo N/A" ,,AMC H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2521?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="http://159.69.19.32/epg/epg.xml.gz" tvg-name="ANIMAL PLANET 4K" tvg-logo="Logo N/A" ,,ANIMAL PLANET 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/61?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Animal Planet FHD" tvg-logo="Logo N/A" ,,Animal Planet FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2156?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Animal Planet FHDR" tvg-logo="Logo N/A" ,,Animal Planet FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2115?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Animal Planet FullHD H264" tvg-logo="Logo N/A" ,,Animal Planet FullHD H264
+http://ddns.phdtv.club:80/juanvods/Adxsdere/80074?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="ANIMAL PLANET HD" tvg-logo="Logo N/A" ,,ANIMAL PLANET HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/62?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="ARTE 1 4K" tvg-logo="Logo N/A" ,,ARTE 1 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/231?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Arte 1 FHD" tvg-logo="Logo N/A" ,,Arte 1 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2159?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Arte 1 FHDR" tvg-logo="Logo N/A" ,,Arte 1 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4131?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="ARTE 1 HD" tvg-logo="Logo N/A" ,,ARTE 1 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/232?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Arte1 FullHD H264" tvg-logo="Logo N/A" ,,Arte1 FullHD H264
+http://ddns.phdtv.club:80/juanvods/Adxsdere/83489?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="http://159.69.19.32/epg/epg.xml.gz" tvg-name="AXN 4K" tvg-logo="Logo N/A" ,,AXN 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/233?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="AXN FHD" tvg-logo="Logo N/A" ,,AXN FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2162?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="AXN FHD [LEG]" tvg-logo="Logo N/A" ,,AXN FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3698?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="AXN FHDR" tvg-logo="Logo N/A" ,,AXN FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/3684?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="AXN FullHD H264" tvg-logo="Logo N/A" ,,AXN FullHD H264
+http://ddns.phdtv.club:80/juanvods/Adxsdere/80844?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="AXN FullHD H265" tvg-logo="Logo N/A" ,,AXN FullHD H265
+http://ddns.phdtv.club:80/juanvods/Adxsdere/92?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="AXN H265" tvg-logo="Logo N/A" ,,AXN H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2524?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="AXN HD" tvg-logo="Logo N/A" ,,AXN HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/234?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Band Minas FullHD" tvg-logo="Logo N/A" ,,Band Minas FullHD
+http://ddns.phdtv.club:80/juanvods/Adxsdere/105517?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="BAND NEWS 4K" tvg-logo="Logo N/A" ,,BAND NEWS 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/482?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="Band News FHD" tvg-logo="Logo N/A" ,,Band News FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2165?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="Band News FHDR" tvg-logo="Logo N/A" ,,Band News FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4126?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="BAND NEWS HD" tvg-logo="Logo N/A" ,,BAND NEWS HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/432?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Band SP FHD" tvg-logo="Logo N/A" ,,Band SP FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4019?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Band SP FullHD H264" tvg-logo="Logo N/A" ,,Band SP FullHD H264
+http://ddns.phdtv.club:80/juanvods/Adxsdere/82294?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Band SP H265" tvg-logo="Logo N/A" ,,Band SP H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/4178?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="BAND SP HD" tvg-logo="Logo N/A" ,,BAND SP HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/485?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Band SP SD" tvg-logo="Logo N/A" ,,Band SP SD
+http://ddns.phdtv.club:80/juanvods/Adxsdere/1052?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="BAND SPORTS 4K" tvg-logo="Logo N/A" ,,BAND SPORTS 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/120?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="Band Sports FHD" tvg-logo="Logo N/A" ,,Band Sports FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2168?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="Band Sports FHDR" tvg-logo="Logo N/A" ,,Band Sports FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4125?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="Band Sports FullHD H264" tvg-logo="Logo N/A" ,,Band Sports FullHD H264
+http://ddns.phdtv.club:80/juanvods/Adxsdere/73483?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="Band Sports FullHD H265" tvg-logo="Logo N/A" ,,Band Sports FullHD H265
+http://ddns.phdtv.club:80/juanvods/Adxsdere/1237?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="Band Sports H265" tvg-logo="Logo N/A" ,,Band Sports H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2526?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="BAND SPORTS HD" tvg-logo="Logo N/A" ,,BAND SPORTS HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/121?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Band Tv Goiania FullHD H265" tvg-logo="Logo N/A" ,,Band Tv Goiania FullHD H265
+http://ddns.phdtv.club:80/juanvods/Adxsdere/1376?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Band Tv Taroba Paraná FullHD" tvg-logo="Logo N/A" ,,Band Tv Taroba Paraná FullHD
+http://ddns.phdtv.club:80/juanvods/Adxsdere/107861?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="BBC World News FullHD H264" tvg-logo="Logo N/A" ,,BBC World News FullHD H264
+http://ddns.phdtv.club:80/juanvods/Adxsdere/83492?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="BEIN SPORTS 7 HD" tvg-logo="Logo N/A" ,,BEIN SPORTS 7 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/57?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="Logo N/A" ,,BEIN SPORTS NEWS HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/58?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="BIS 4K" tvg-logo="Logo N/A" ,,BIS 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/419?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="BIS FHDR" tvg-logo="Logo N/A" ,,BIS FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4127?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="BIS FullHD H264" tvg-logo="Logo N/A" ,,BIS FullHD H264
+http://ddns.phdtv.club:80/juanvods/Adxsdere/85209?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="BIS FullHD H265" tvg-logo="Logo N/A" ,,BIS FullHD H265
+http://ddns.phdtv.club:80/juanvods/Adxsdere/1241?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="BIS H265" tvg-logo="Logo N/A" ,,BIS H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2527?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="BIS HD" tvg-logo="Logo N/A" ,,BIS HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/420?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Boomerang FHD" tvg-logo="Logo N/A" ,,Boomerang FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2174?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Boomerang FHDR" tvg-logo="Logo N/A" ,,Boomerang FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/3685?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Boomerang FullHD H264" tvg-logo="Logo N/A" ,,Boomerang FullHD H264
+http://ddns.phdtv.club:80/juanvods/Adxsdere/80084?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Boomerang FullHD H265" tvg-logo="Logo N/A" ,,Boomerang FullHD H265
+http://ddns.phdtv.club:80/juanvods/Adxsdere/21167?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Boomerang H265" tvg-logo="Logo N/A" ,,Boomerang H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2528?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="BOOMERANG HD" tvg-logo="Logo N/A" ,,BOOMERANG HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/345?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Brasil IPTV_110" tvg-logo="Logo N/A" ,,Brasil IPTV_110
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8&checkedby?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Canal Brasil FHD" tvg-logo="Logo N/A" ,,Canal Brasil FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2177?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Canal Brasil FHDR" tvg-logo="Logo N/A" ,,Canal Brasil FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4118?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Canal do Boi FHDR" tvg-logo="Logo N/A" ,,Canal do Boi FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4116?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Canal do Boi H265" tvg-logo="Logo N/A" ,,Canal do Boi H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2530?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Canal Sony FHD" tvg-logo="Logo N/A" ,,Canal Sony FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2183?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Canal Sony FHD [LEG]" tvg-logo="Logo N/A" ,,Canal Sony FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3701?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Canal Sony FHDR" tvg-logo="Logo N/A" ,,Canal Sony FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4117?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CANAL TESTE" tvg-logo="Logo N/A" ,,CANAL TESTE
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/819?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CANCAO NOVA UHD" tvg-logo="Logo N/A" ,,CANCAO NOVA UHD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/97?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CARTOON NETWORK 4K" tvg-logo="Logo N/A" ,,CARTOON NETWORK 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/346?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Cartoon Network FHD" tvg-logo="Logo N/A" ,,Cartoon Network FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2186?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Cartoon Network FHDR" tvg-logo="Logo N/A" ,,Cartoon Network FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2116?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CARTOON NETWORK HD" tvg-logo="Logo N/A" ,,CARTOON NETWORK HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/347?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CAVALEIROS DO ZODIACO" tvg-logo="Logo N/A" ,,CAVALEIROS DO ZODIACO
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/680?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="CBN São Paulo" tvg-logo="https://i.imgur.com/FZwHq8k.png" ,,CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CCTV Notícias" tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" ,,CCTV Notícias
+https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CHAVES" tvg-logo="Logo N/A" ,,CHAVES
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/682?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINE SKY 10" tvg-logo="Logo N/A" ,,CINE SKY 10
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/764?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINE SKY 11" tvg-logo="Logo N/A" ,,CINE SKY 11
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/809?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINE SKY 12" tvg-logo="Logo N/A" ,,CINE SKY 12
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/810?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINE SKY 13" tvg-logo="Logo N/A" ,,CINE SKY 13
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/811?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINE SKY 14" tvg-logo="Logo N/A" ,,CINE SKY 14
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/812?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINE SKY 15" tvg-logo="Logo N/A" ,,CINE SKY 15
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/813?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINE SKY 2" tvg-logo="Logo N/A" ,,CINE SKY 2
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/755?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINE SKY 3" tvg-logo="Logo N/A" ,,CINE SKY 3
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/756?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINE SKY 4" tvg-logo="Logo N/A" ,,CINE SKY 4
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/757?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINE SKY 5" tvg-logo="Logo N/A" ,,CINE SKY 5
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/758?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINE SKY 6" tvg-logo="Logo N/A" ,,CINE SKY 6
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/760?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINE SKY 7" tvg-logo="Logo N/A" ,,CINE SKY 7
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/761?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINE SKY 8" tvg-logo="Logo N/A" ,,CINE SKY 8
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/762?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINE SKY 9" tvg-logo="Logo N/A" ,,CINE SKY 9
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/763?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINEMAX 4K" tvg-logo="Logo N/A" ,,CINEMAX 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/239?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Cinemax FHD" tvg-logo="Logo N/A" ,,Cinemax FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2189?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Cinemax FHDR" tvg-logo="Logo N/A" ,,Cinemax FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/3686?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Cinemax H265" tvg-logo="Logo N/A" ,,Cinemax H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2533?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CINEMAX HD" tvg-logo="Logo N/A" ,,CINEMAX HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/240?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CNN BRASIL 4K" tvg-logo="Logo N/A" ,,CNN BRASIL 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/433?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CNN Brasil FHD" tvg-logo="Logo N/A" ,,CNN Brasil FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2192?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CNN Brasil FHDR" tvg-logo="Logo N/A" ,,CNN Brasil FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2117?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="Logo N/A" ,,CNN INTERNACIONAL 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/438?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CNN TURK HD" tvg-logo="Logo N/A" ,,CNN TURK HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/442?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CNT" tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" ,,CNT
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General" tvg-id="EPG N/A" tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" ,,COM Brasil
+https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="COMBATE 4K" tvg-logo="Logo N/A" ,,COMBATE 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/122?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Combate FHD" tvg-logo="Logo N/A" ,,Combate FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2195?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Combate FHDR" tvg-logo="Logo N/A" ,,Combate FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2118?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="COMBATE HD" tvg-logo="Logo N/A" ,,COMBATE HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/123?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Comedy Central FHD" tvg-logo="Logo N/A" ,,Comedy Central FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2198?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Comedy Central FHDR" tvg-logo="Logo N/A" ,,Comedy Central FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/3687?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Comedy Central H265" tvg-logo="Logo N/A" ,,Comedy Central H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2536?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="COMEDY CENTRAL HD" tvg-logo="Logo N/A" ,,COMEDY CENTRAL HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/98?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="COMEDY CENTRAL UHD" tvg-logo="Logo N/A" ,,COMEDY CENTRAL UHD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/99?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CONMEBOL TV 1 4K" tvg-logo="Logo N/A" ,,CONMEBOL TV 1 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/193?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CONMEBOL TV 3 4K" tvg-logo="Logo N/A" ,,CONMEBOL TV 3 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/194?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CONMEBOL TV 4 4K" tvg-logo="Logo N/A" ,,CONMEBOL TV 4 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/195?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CONMEBOL TV 4 FHD" tvg-logo="Logo N/A" ,,CONMEBOL TV 4 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2210?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CONMEBOL TV 4 FHDR" tvg-logo="Logo N/A" ,,CONMEBOL TV 4 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4121?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CONMEBOL TV 4 H265" tvg-logo="Logo N/A" ,,CONMEBOL TV 4 H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2540?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CONMEBOL TV1 HD" tvg-logo="Logo N/A" ,,CONMEBOL TV1 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/196?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CONMEBOL TV2 HD" tvg-logo="Logo N/A" ,,CONMEBOL TV2 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/198?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CONMEBOL TV3 HD" tvg-logo="Logo N/A" ,,CONMEBOL TV3 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/199?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Cultura FHD" tvg-logo="Logo N/A" ,,Cultura FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2213?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Cultura FHDR" tvg-logo="Logo N/A" ,,Cultura FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4113?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Cultura H265" tvg-logo="Logo N/A" ,,Cultura H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2541?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="CURTA HD" tvg-logo="Logo N/A" ,,CURTA HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/100?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Curta! FHD" tvg-logo="Logo N/A" ,,Curta! FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2216?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Curta! FHDR" tvg-logo="Logo N/A" ,,Curta! FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4112?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DAZN 1 HD" tvg-logo="Logo N/A" ,,DAZN 1 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/821?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DAZN 2 HD" tvg-logo="Logo N/A" ,,DAZN 2 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/822?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DAZN 4 HD" tvg-logo="Logo N/A" ,,DAZN 4 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/824?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Disc. Home & Health FHDR" tvg-logo="Logo N/A" ,,Disc. Home & Health FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2120?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Disc. Home &amp; Health FHD" tvg-logo="Logo N/A" ,,Disc. Home &amp; Health FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2219?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Disc. Home &amp; Health H265" tvg-logo="Logo N/A" ,,Disc. Home &amp; Health H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2543?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="Logo N/A" ,,DISCOVERY CHANNEL 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/65?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Discovery Channel FHD" tvg-logo="Logo N/A" ,,Discovery Channel FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2222?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Discovery Channel FHDR" tvg-logo="Logo N/A" ,,Discovery Channel FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2119?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="Logo N/A" ,,DISCOVERY CHANNEL HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/66?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISCOVERY H&H 4K" tvg-logo="Logo N/A" ,,DISCOVERY H&H 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/67?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISCOVERY H&H HD" tvg-logo="Logo N/A" ,,DISCOVERY H&H HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/68?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Discovery Home & Health" tvg-logo="Logo N/A" ,,Discovery Home & Health
+http://tv.factoryiptv.com:80/Denis111/Denis111/36984?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISCOVERY ID 4K" tvg-logo="Logo N/A" ,,DISCOVERY ID 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/69?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISCOVERY ID HD" tvg-logo="Logo N/A" ,,DISCOVERY ID HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/70?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Kids" tvg-id="EPG N/A" tvg-name="DISCOVERY KIDS 4K" tvg-logo="Logo N/A" ,,DISCOVERY KIDS 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/348?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Kids" tvg-id="EPG N/A" tvg-name="Discovery Kids FHD" tvg-logo="Logo N/A" ,,Discovery Kids FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2225?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Kids" tvg-id="EPG N/A" tvg-name="Discovery Kids FHDR" tvg-logo="Logo N/A" ,,Discovery Kids FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2121?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Kids" tvg-id="EPG N/A" tvg-name="DISCOVERY KIDS HD" tvg-logo="Logo N/A" ,,DISCOVERY KIDS HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/349?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="Logo N/A" ,,DISCOVERY SCIENCE 4k
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/71?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Discovery Science FHD" tvg-logo="Logo N/A" ,,Discovery Science FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2228?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Discovery Science FHDR" tvg-logo="Logo N/A" ,,Discovery Science FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4111?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="Logo N/A" ,,DISCOVERY SCIENCE HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/72?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISCOVERY THEATER 4K" tvg-logo="Logo N/A" ,,DISCOVERY THEATER 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/73?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Discovery Theater FHD" tvg-logo="Logo N/A" ,,Discovery Theater FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2231?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Discovery Theater FHDR" tvg-logo="Logo N/A" ,,Discovery Theater FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4110?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Discovery Theater H265" tvg-logo="Logo N/A" ,,Discovery Theater H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2547?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISCOVERY THEATER HD" tvg-logo="Logo N/A" ,,DISCOVERY THEATER HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/74?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISCOVERY TURBO 4K" tvg-logo="Logo N/A" ,,DISCOVERY TURBO 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/75?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Discovery Turbo FHD" tvg-logo="Logo N/A" ,,Discovery Turbo FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2234?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Discovery Turbo FHDR" tvg-logo="Logo N/A" ,,Discovery Turbo FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/3688?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISCOVERY TURBO HD" tvg-logo="Logo N/A" ,,DISCOVERY TURBO HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/76?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISCOVERY WORLD 4K" tvg-logo="Logo N/A" ,,DISCOVERY WORLD 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/77?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Discovery World FHDR" tvg-logo="Logo N/A" ,,Discovery World FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4109?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Discovery World H265" tvg-logo="Logo N/A" ,,Discovery World H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2549?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISCOVERY WORLD HD" tvg-logo="Logo N/A" ,,DISCOVERY WORLD HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/78?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISNEY CHANNEL  4K" tvg-logo="Logo N/A" ,,DISNEY CHANNEL  4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/351?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Disney Channel FHD" tvg-logo="Logo N/A" ,,Disney Channel FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2240?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Disney Channel FHDR" tvg-logo="Logo N/A" ,,Disney Channel FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4108?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISNEY CHANNEL HD" tvg-logo="Logo N/A" ,,DISNEY CHANNEL HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/352?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISNEY JUNIOR 4K" tvg-logo="Logo N/A" ,,DISNEY JUNIOR 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/353?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Disney Junior FHD" tvg-logo="Logo N/A" ,,Disney Junior FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2243?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Disney Junior FHDR" tvg-logo="Logo N/A" ,,Disney Junior FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4107?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Disney Junior H265" tvg-logo="Logo N/A" ,,Disney Junior H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2551?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DISNEY JUNIOR HD" tvg-logo="Logo N/A" ,,DISNEY JUNIOR HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/354?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Disney XD SD" tvg-logo="Logo N/A" ,,Disney XD SD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2101?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DOG TV FHD" tvg-logo="Logo N/A" ,,DOG TV FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4137?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DRAGON BALL SUPER" tvg-logo="Logo N/A" ,,DRAGON BALL SUPER
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/686?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DRAGON BALL Z" tvg-logo="Logo N/A" ,,DRAGON BALL Z
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/687?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="DW (Deutsch+) SD" tvg-logo="Logo N/A" ,,DW (Deutsch+) SD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4140?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="E! 4K" tvg-logo="Logo N/A" ,,E! 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/102?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="E! FHD" tvg-logo="Logo N/A" ,,E! FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2246?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="E! FHDR" tvg-logo="Logo N/A" ,,E! FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4106?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="E! H265" tvg-logo="Logo N/A" ,,E! H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2552?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="E! HD" tvg-logo="Logo N/A" ,,E! HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/103?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ELEVEN SPORTS 1 4K" tvg-logo="Logo N/A" ,,ELEVEN SPORTS 1 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/124?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ELEVEN SPORTS 2 4K" tvg-logo="Logo N/A" ,,ELEVEN SPORTS 2 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/125?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ELEVEN SPORTS 3 4K" tvg-logo="Logo N/A" ,,ELEVEN SPORTS 3 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/801?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ELEVEN SPORTS 4 4K" tvg-logo="Logo N/A" ,,ELEVEN SPORTS 4 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/802?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ELEVEN SPORTS 5 4K" tvg-logo="Logo N/A" ,,ELEVEN SPORTS 5 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/803?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ELEVEN SPORTS 6 4K" tvg-logo="Logo N/A" ,,ELEVEN SPORTS 6 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/804?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ESPN 2 4K" tvg-logo="Logo N/A" ,,ESPN 2 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/127?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ESPN 4K" tvg-logo="Logo N/A" ,,ESPN 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/129?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ESPN BRASIL 4K" tvg-logo="Logo N/A" ,,ESPN BRASIL 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/130?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ESPN Brasil FHD" tvg-logo="Logo N/A" ,,ESPN Brasil FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2249?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ESPN Brasil FHDR" tvg-logo="Logo N/A" ,,ESPN Brasil FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/3689?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ESPN EXTRA 4K" tvg-logo="Logo N/A" ,,ESPN EXTRA 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/133?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ESPN Extra FHD" tvg-logo="Logo N/A" ,,ESPN Extra FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2252?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ESPN Extra FHDR" tvg-logo="Logo N/A" ,,ESPN Extra FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4105?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ESPN Extra H265" tvg-logo="Logo N/A" ,,ESPN Extra H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2554?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ESPN FHD" tvg-logo="Logo N/A" ,,ESPN FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2255?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ESPN FHDR" tvg-logo="Logo N/A" ,,ESPN FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2122?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ESPN2 FHD" tvg-logo="Logo N/A" ,,ESPN2 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2258?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ESPN2 FHDR" tvg-logo="Logo N/A" ,,ESPN2 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4104?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ESTADIO TNT SPORT 02 HD" tvg-logo="Logo N/A" ,,ESTADIO TNT SPORT 02 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/217?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="ESTADIO TNT SPORT 03 HD" tvg-logo="Logo N/A" ,,ESTADIO TNT SPORT 03 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/218?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="EVANGELIZAR HD" tvg-logo="Logo N/A" ,,EVANGELIZAR HD
+http://solutionplay.xyz:8080/techruthes/10987658/5921?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Fashion TV FHD" tvg-logo="Logo N/A" ,,Fashion TV FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2261?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Fashion TV FHDR" tvg-logo="Logo N/A" ,,Fashion TV FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4103?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FDR - Futura (CE)" tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" ,,FDR - Futura (CE)
+http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FHD" tvg-logo="Logo N/A" ,,FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13346?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FHD" tvg-logo="Logo N/A" ,,FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13363?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FHD" tvg-logo="Logo N/A" ,,FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13361?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="FHD" tvg-logo="Logo N/A" ,,FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13101?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FHD" tvg-logo="Logo N/A" ,,FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13355?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="FHD" tvg-logo="Logo N/A" ,,FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13349?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FHD" tvg-logo="Logo N/A" ,,FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13087?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FHD" tvg-logo="Logo N/A" ,,FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13252?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="FHD" tvg-logo="Logo N/A" ,,FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13098?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FHD" tvg-logo="Logo N/A" ,,FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13358?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="FHD" tvg-logo="Logo N/A" ,,FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13352?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Film&Arts FHD" tvg-logo="Logo N/A" ,,Film&Arts FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4144?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FISH TV 4K" tvg-logo="Logo N/A" ,,FISH TV 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/79?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Fish TV FHD" tvg-logo="Logo N/A" ,,Fish TV FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2264?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Fish TV FHDR" tvg-logo="Logo N/A" ,,Fish TV FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4102?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FOOD NETWORK 4K" tvg-logo="Logo N/A" ,,FOOD NETWORK 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/104?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Food Network FHD" tvg-logo="Logo N/A" ,,Food Network FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2267?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Food Network FHDR" tvg-logo="Logo N/A" ,,Food Network FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4101?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Food Network H265" tvg-logo="Logo N/A" ,,Food Network H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2559?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="FOX SPORTS 2 4K" tvg-logo="Logo N/A" ,,FOX SPORTS 2 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/139?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="FOX Sports 2 FHD" tvg-logo="Logo N/A" ,,FOX Sports 2 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2282?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="FOX Sports 2 FHDR" tvg-logo="Logo N/A" ,,FOX Sports 2 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2124?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="FOX Sports 2 H265" tvg-logo="Logo N/A" ,,FOX Sports 2 H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2564?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="FOX SPORTS 2 HD" tvg-logo="Logo N/A" ,,FOX SPORTS 2 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/140?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="FOX SPORTS 4K" tvg-logo="Logo N/A" ,,FOX SPORTS 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/142?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="FOX Sports FHD" tvg-logo="Logo N/A" ,,FOX Sports FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2285?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="FOX Sports FHDR" tvg-logo="Logo N/A" ,,FOX Sports FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2125?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="FOX Sports H265" tvg-logo="Logo N/A" ,,FOX Sports H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2565?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="FOX SPORTS HD" tvg-logo="Logo N/A" ,,FOX SPORTS HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/143?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="FoxSports 2 HD" tvg-logo="Logo N/A" ,,FoxSports 2 HD
+http://tv.factoryiptv.com:80/Denis111/Denis111/36971?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="France 24 FHD" tvg-logo="Logo N/A" ,,France 24 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4136?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="France 24 FHDR" tvg-logo="Logo N/A" ,,France 24 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4100?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FREAKAZOID" tvg-logo="Logo N/A" ,,FREAKAZOID
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/692?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Futura FHD" tvg-logo="Logo N/A" ,,Futura FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2288?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Futura FHDR" tvg-logo="Logo N/A" ,,Futura FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4099?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Futura H265" tvg-logo="Logo N/A" ,,Futura H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2566?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FUTURA HD" tvg-logo="Logo N/A" ,,FUTURA HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/243?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FX FHD" tvg-logo="Logo N/A" ,,FX FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2291?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FX FHD [LEG]" tvg-logo="Logo N/A" ,,FX FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3704?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FX FHDR" tvg-logo="Logo N/A" ,,FX FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/3690?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FX H265" tvg-logo="Logo N/A" ,,FX H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2567?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FX HD" tvg-logo="Logo N/A" ,,FX HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/244?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="FX HD [LEG]" tvg-logo="Logo N/A" ,,FX HD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3705?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Gazeta H265" tvg-logo="Logo N/A" ,,Gazeta H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/4169?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO BAHIA 4K" tvg-logo="Logo N/A" ,,GLOBO BAHIA 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/488?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO BRASILIA 4K" tvg-logo="Logo N/A" ,,GLOBO BRASILIA 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/490?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Brasilia FHD" tvg-logo="Logo N/A" ,,Globo Brasilia FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3769?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Brasilia HD" tvg-logo="Logo N/A" ,,Globo Brasilia HD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3768?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO BRASILIA HD" tvg-logo="Logo N/A" ,,GLOBO BRASILIA HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/489?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Brasilia SD" tvg-logo="Logo N/A" ,,Globo Brasilia SD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3767?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO EPTV CAMPINAS 4K" tvg-logo="Logo N/A" ,,GLOBO EPTV CAMPINAS 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/780?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo EPTV Campinas FHD" tvg-logo="Logo N/A" ,,Globo EPTV Campinas FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3772?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="Logo N/A" ,,GLOBO EPTV CAMPINAS HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/491?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo EPTV Central Sao Carlos FHD" tvg-logo="Logo N/A" ,,Globo EPTV Central Sao Carlos FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4006?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo EPTV Central Sao Carlos HD" tvg-logo="Logo N/A" ,,Globo EPTV Central Sao Carlos HD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4007?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo EPTV Ribeirão Preto FHD" tvg-logo="Logo N/A" ,,Globo EPTV Ribeirão Preto FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3997?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="Logo N/A" ,,Globo EPTV Sul de Minas FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3841?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Inter TV Alto Litoral FHD" tvg-logo="Logo N/A" ,,Globo Inter TV Alto Litoral FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3844?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO INTER TV CABUGI 4K" tvg-logo="Logo N/A" ,,GLOBO INTER TV CABUGI 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/514?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Inter TV Cabugi FHD" tvg-logo="Logo N/A" ,,Globo Inter TV Cabugi FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3850?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Inter TV dos Vales FHD" tvg-logo="Logo N/A" ,,Globo Inter TV dos Vales FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3853?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Inter TV Serra Mar FHD" tvg-logo="Logo N/A" ,,Globo Inter TV Serra Mar FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3859?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="Logo N/A" ,,Globo Inter TV Serra Mar HD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3860?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO MINAS 4K" tvg-logo="Logo N/A" ,,GLOBO MINAS 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/497?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Minas FHD" tvg-logo="Logo N/A" ,,Globo Minas FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3775?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO MINAS HD" tvg-logo="Logo N/A" ,,GLOBO MINAS HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/772?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="GLOBO NEWS 4K" tvg-logo="Logo N/A" ,,GLOBO NEWS 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/498?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="GLOBO NEWS DF" tvg-logo="Logo N/A" ,,GLOBO NEWS DF
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/445?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="GLOBO NEWS SP 4K" tvg-logo="Logo N/A" ,,GLOBO NEWS SP 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/447?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="GLOBO NEWS SP UHD" tvg-logo="Logo N/A" ,,GLOBO NEWS SP UHD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/448?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO NORDESTE 4k" tvg-logo="Logo N/A" ,,GLOBO NORDESTE 4k
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/499?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Nordeste FHD" tvg-logo="Logo N/A" ,,Globo Nordeste FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3781?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO NORDESTE HD" tvg-logo="Logo N/A" ,,GLOBO NORDESTE HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/500?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO NSC BLUMENAU 4K" tvg-logo="Logo N/A" ,,GLOBO NSC BLUMENAU 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/515?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo NSC TV Blumenau FHD" tvg-logo="Logo N/A" ,,Globo NSC TV Blumenau FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3862?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="Logo N/A" ,,Globo NSC TV Blumenau HD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3863?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo NSC TV Blumenau SD" tvg-logo="Logo N/A" ,,Globo NSC TV Blumenau SD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3864?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo NSC TV Chapeco FHD" tvg-logo="Logo N/A" ,,Globo NSC TV Chapeco FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3865?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo NSC TV Chapeco SD" tvg-logo="Logo N/A" ,,Globo NSC TV Chapeco SD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3867?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo NSC TV Florianopolis FHD" tvg-logo="Logo N/A" ,,Globo NSC TV Florianopolis FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3784?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo NSC TV Joinville FHD" tvg-logo="Logo N/A" ,,Globo NSC TV Joinville FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3868?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO RBS PORTO ALEGRE 4k" tvg-logo="Logo N/A" ,,GLOBO RBS PORTO ALEGRE 4k
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/501?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo RBS TV Caxias do Sul FHD" tvg-logo="Logo N/A" ,,Globo RBS TV Caxias do Sul FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3871?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo RBS TV Passo Fundo FHD" tvg-logo="Logo N/A" ,,Globo RBS TV Passo Fundo FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4244?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="Logo N/A" ,,Globo RBS TV Pelotas FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4013?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo RBS TV Porto Alegre FHD" tvg-logo="Logo N/A" ,,Globo RBS TV Porto Alegre FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3874?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Rede Amazonica Amapa FHD" tvg-logo="Logo N/A" ,,Globo Rede Amazonica Amapa FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4235?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Rede Amazonica Boa Vista FHD" tvg-logo="Logo N/A" ,,Globo Rede Amazonica Boa Vista FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4197?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Rede Amazonica Manaus FHD" tvg-logo="Logo N/A" ,,Globo Rede Amazonica Manaus FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3787?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Rede Amazonica Porto Velho FHD" tvg-logo="Logo N/A" ,,Globo Rede Amazonica Porto Velho FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4194?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Rede Amazonica Rio Branco FHD" tvg-logo="Logo N/A" ,,Globo Rede Amazonica Rio Branco FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4188?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo Rio HD" tvg-logo="Logo N/A" ,,Globo Rio HD
+http://tv.factoryiptv.com:80/Denis111/Denis111/36968?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO RJ 4K" tvg-logo="Logo N/A" ,,GLOBO RJ 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/504?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO RJ HD" tvg-logo="Logo N/A" ,,GLOBO RJ HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/503?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo RPC Cascavel FHD" tvg-logo="Logo N/A" ,,Globo RPC Cascavel FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4238?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO RPC CURITIBA 4K" tvg-logo="Logo N/A" ,,GLOBO RPC CURITIBA 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/505?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="Logo N/A" ,,GLOBO RPC FOZ DO IGUAÇU 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/506?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo RPC Londrina FHD" tvg-logo="Logo N/A" ,,Globo RPC Londrina FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4241?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO RPC MARINGA 4K" tvg-logo="Logo N/A" ,,GLOBO RPC MARINGA 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/507?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="Logo N/A" ,,GLOBO RPC MARINGA HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/817?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo RPC TV Curitiba FHD" tvg-logo="Logo N/A" ,,Globo RPC TV Curitiba FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3793?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo RPC TV Curitiba HD" tvg-logo="Logo N/A" ,,Globo RPC TV Curitiba HD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3792?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo RPC TV Foz do Iguacu FHD" tvg-logo="Logo N/A" ,,Globo RPC TV Foz do Iguacu FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3877?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo RPC TV Maringa FHD" tvg-logo="Logo N/A" ,,Globo RPC TV Maringa FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3984?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO SP 4K" tvg-logo="Logo N/A" ,,GLOBO SP 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/511?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo SP FHD" tvg-logo="Logo N/A" ,,Globo SP FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3796?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo SP H265" tvg-logo="Logo N/A" ,,Globo SP H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/4170?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO SP HD" tvg-logo="Logo N/A" ,,GLOBO SP HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/510?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Anhanguera FHD" tvg-logo="Logo N/A" ,,Globo TV Anhanguera FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3886?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Anhanguera HD" tvg-logo="Logo N/A" ,,Globo TV Anhanguera HD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3887?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Asa Branca FHD" tvg-logo="Logo N/A" ,,Globo TV Asa Branca FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4046?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Bahia FHD" tvg-logo="Logo N/A" ,,Globo TV Bahia FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3799?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Cabo Branco FHD" tvg-logo="Logo N/A" ,,Globo TV Cabo Branco FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3889?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO TV CENTRAL AMERICA CUIABA 4K" tvg-logo="Logo N/A" ,,GLOBO TV CENTRAL AMERICA CUIABA 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/512?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Centro America FHD" tvg-logo="Logo N/A" ,,Globo TV Centro America FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3892?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Clube Teresina FHD" tvg-logo="Logo N/A" ,,Globo TV Clube Teresina FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3895?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Diario Mogi das Cruzes FHD" tvg-logo="Logo N/A" ,,Globo TV Diario Mogi das Cruzes FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4000?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Fronteira Presidente Prudente FHD" tvg-logo="Logo N/A" ,,Globo TV Fronteira Presidente Prudente FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3988?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="Logo N/A" ,,Globo TV Gazeta Alagoas FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3898?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Gazeta Sul HD" tvg-logo="Logo N/A" ,,Globo TV Gazeta Sul HD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3902?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Gazeta Vitoria FHD" tvg-logo="Logo N/A" ,,Globo TV Gazeta Vitoria FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3802?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Integracao Juiz de Fora FHD" tvg-logo="Logo N/A" ,,Globo TV Integracao Juiz de Fora FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3904?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Integracao Uberaba FHD" tvg-logo="Logo N/A" ,,Globo TV Integracao Uberaba FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4229?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Integracao Uberlandia FHD" tvg-logo="Logo N/A" ,,Globo TV Integracao Uberlandia FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4226?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBO TV LIBERAL BELEM 4K" tvg-logo="Logo N/A" ,,GLOBO TV LIBERAL BELEM 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/554?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Liberal Belem FHD" tvg-logo="Logo N/A" ,,Globo TV Liberal Belem FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3805?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Mirante Cocais FHD" tvg-logo="Logo N/A" ,,Globo TV Mirante Cocais FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4232?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Mirante Sao Luis FHD" tvg-logo="Logo N/A" ,,Globo TV Mirante Sao Luis FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3808?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Morena FHD" tvg-logo="Logo N/A" ,,Globo TV Morena FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3907?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Rio Sul FHD" tvg-logo="Logo N/A" ,,Globo TV Rio Sul FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3910?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Sergipe FHD" tvg-logo="Logo N/A" ,,Globo TV Sergipe FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3913?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Subae FHD" tvg-logo="Logo N/A" ,,Globo TV Subae FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4247?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV TEM Bauru FHD" tvg-logo="Logo N/A" ,,Globo TV TEM Bauru FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3811?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV TEM Itapetininga FHD" tvg-logo="Logo N/A" ,,Globo TV TEM Itapetininga FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3814?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV TEM Sao Jose do Rio Preto FHD" tvg-logo="Logo N/A" ,,Globo TV TEM Sao Jose do Rio Preto FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3817?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV TEM Sorocaba FHD" tvg-logo="Logo N/A" ,,Globo TV TEM Sorocaba FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3820?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Tribuna Santos FHD" tvg-logo="Logo N/A" ,,Globo TV Tribuna Santos FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4003?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Vanguarda S J Campos FHD" tvg-logo="Logo N/A" ,,Globo TV Vanguarda S J Campos FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3994?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Vanguarda Taubate FHD" tvg-logo="Logo N/A" ,,Globo TV Vanguarda Taubate FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4016?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Globo TV Verdes Mares FHD" tvg-logo="Logo N/A" ,,Globo TV Verdes Mares FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2501?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="GloboNews FHD" tvg-logo="Logo N/A" ,,GloboNews FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2294?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="GloboNews FHDR" tvg-logo="Logo N/A" ,,GloboNews FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2126?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOBOSAT + UHD" tvg-logo="Logo N/A" ,,GLOBOSAT + UHD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/106?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOOB 4K" tvg-logo="Logo N/A" ,,GLOOB 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/357?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Gloob FHD" tvg-logo="Logo N/A" ,,Gloob FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2297?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Gloob FHDR" tvg-logo="Logo N/A" ,,Gloob FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4098?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOOBINHO 4K" tvg-logo="Logo N/A" ,,GLOOBINHO 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/359?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Gloobinho FHD" tvg-logo="Logo N/A" ,,Gloobinho FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3678?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Gloobinho FHDR" tvg-logo="Logo N/A" ,,Gloobinho FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4097?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GLOOBINHO HD" tvg-logo="Logo N/A" ,,GLOOBINHO HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/360?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GNT 4K" tvg-logo="Logo N/A" ,,GNT 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/107?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GNT FHD" tvg-logo="Logo N/A" ,,GNT FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2300?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GNT FHDR" tvg-logo="Logo N/A" ,,GNT FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/3691?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="GNT HD" tvg-logo="Logo N/A" ,,GNT HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/108?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="H2 4K" tvg-logo="Logo N/A" ,,H2 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/815?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="H2 HD" tvg-logo="Logo N/A" ,,H2 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/81?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO + 4K" tvg-logo="Logo N/A" ,,HBO + 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/246?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO + DUAL" tvg-logo="Logo N/A" ,,HBO + DUAL
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/795?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO + HD" tvg-logo="Logo N/A" ,,HBO + HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/245?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO 2 4K" tvg-logo="Logo N/A" ,,HBO 2 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/247?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO 2 HD" tvg-logo="Logo N/A" ,,HBO 2 HD
+http://tv.factoryiptv.com:80/Denis111/Denis111/36966?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO 4K" tvg-logo="Logo N/A" ,,HBO 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/251?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO FAMILY 4K" tvg-logo="Logo N/A" ,,HBO FAMILY 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/252?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO Family FHD" tvg-logo="Logo N/A" ,,HBO Family FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2303?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO Family FHDR" tvg-logo="Logo N/A" ,,HBO Family FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/3692?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO FAMILY HD" tvg-logo="Logo N/A" ,,HBO FAMILY HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/253?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO FHD" tvg-logo="Logo N/A" ,,HBO FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2306?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO FHD [LEG]" tvg-logo="Logo N/A" ,,HBO FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3716?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO FHDR" tvg-logo="Logo N/A" ,,HBO FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2129?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO HD" tvg-logo="Logo N/A" ,,HBO HD
+http://tv.factoryiptv.com:80/Denis111/Denis111/36964?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO HD [LEG]" tvg-logo="Logo N/A" ,,HBO HD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3717?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO MAX 1 HD" tvg-logo="Logo N/A" ,,HBO MAX 1 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/832?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO MAX 2 HD" tvg-logo="Logo N/A" ,,HBO MAX 2 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/833?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO MAX 3 HD" tvg-logo="Logo N/A" ,,HBO MAX 3 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/834?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO MAX 4 HD" tvg-logo="Logo N/A" ,,HBO MAX 4 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/835?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO MUNDI 4K" tvg-logo="Logo N/A" ,,HBO MUNDI 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/256?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO MUNDI FHD" tvg-logo="Logo N/A" ,,HBO MUNDI FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2309?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO MUNDI FHD [LEG]" tvg-logo="Logo N/A" ,,HBO MUNDI FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3719?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO MUNDI FHDR" tvg-logo="Logo N/A" ,,HBO MUNDI FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4096?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO MUNDI HD" tvg-logo="Logo N/A" ,,HBO MUNDI HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/257?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO PLUS 4K" tvg-logo="Logo N/A" ,,HBO PLUS 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/258?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO PLUS E HD" tvg-logo="Logo N/A" ,,HBO PLUS E HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/259?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO POP 4K" tvg-logo="Logo N/A" ,,HBO POP 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/260?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO POP FHD" tvg-logo="Logo N/A" ,,HBO POP FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2312?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO POP FHD [LEG]" tvg-logo="Logo N/A" ,,HBO POP FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3725?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO POP FHDR" tvg-logo="Logo N/A" ,,HBO POP FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4095?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO POP HD" tvg-logo="Logo N/A" ,,HBO POP HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/261?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO POP HD [LEG]" tvg-logo="Logo N/A" ,,HBO POP HD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3726?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO SIGNATURE 4K" tvg-logo="Logo N/A" ,,HBO SIGNATURE 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/264?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO Signature FHD" tvg-logo="Logo N/A" ,,HBO Signature FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2315?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO Signature FHD [LEG]" tvg-logo="Logo N/A" ,,HBO Signature FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3728?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO Signature FHDR" tvg-logo="Logo N/A" ,,HBO Signature FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4094?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO SIGNATURE HD" tvg-logo="Logo N/A" ,,HBO SIGNATURE HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/262?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO Signature HD [LEG]" tvg-logo="Logo N/A" ,,HBO Signature HD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3729?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO XTREME 4K" tvg-logo="Logo N/A" ,,HBO XTREME 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/266?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO XTREME FHD" tvg-logo="Logo N/A" ,,HBO XTREME FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2318?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO Xtreme FHDR" tvg-logo="Logo N/A" ,,HBO Xtreme FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/3694?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO XTREME HD" tvg-logo="Logo N/A" ,,HBO XTREME HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/267?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO+ FHD" tvg-logo="Logo N/A" ,,HBO+ FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2321?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO+ FHD [LEG]" tvg-logo="Logo N/A" ,,HBO+ FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3722?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO+ FHDR" tvg-logo="Logo N/A" ,,HBO+ FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/3693?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO2 FHD" tvg-logo="Logo N/A" ,,HBO2 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2324?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HBO2 FHDR" tvg-logo="Logo N/A" ,,HBO2 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2128?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="HD" tvg-logo="Logo N/A" ,,HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13100?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="HD" tvg-logo="Logo N/A" ,,HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13348?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="HD" tvg-logo="Logo N/A" ,,HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13351?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="HD" tvg-logo="Logo N/A" ,,HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13103?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HD" tvg-logo="Logo N/A" ,,HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13362?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HE-MAN" tvg-logo="Logo N/A" ,,HE-MAN
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/694?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HGTV FHD" tvg-logo="Logo N/A" ,,HGTV FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2327?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HGTV FHDR" tvg-logo="Logo N/A" ,,HGTV FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4093?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="History 2 FHD" tvg-logo="Logo N/A" ,,History 2 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2330?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="History 2 FHDR" tvg-logo="Logo N/A" ,,History 2 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2130?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="History 2 HD" tvg-logo="Logo N/A" ,,History 2 HD
+http://tv.factoryiptv.com:80/Denis111/Denis111/36961?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HISTORY CHANNEL 4K" tvg-logo="Logo N/A" ,,HISTORY CHANNEL 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/83?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HISTORY CHANNEL HD" tvg-logo="Logo N/A" ,,HISTORY CHANNEL HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/82?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="History FHD" tvg-logo="Logo N/A" ,,History FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2333?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="History FHDR" tvg-logo="Logo N/A" ,,History FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2131?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HOMEM ARANHA" tvg-logo="Logo N/A" ,,HOMEM ARANHA
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/695?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HOMEM ARANHA 2" tvg-logo="Logo N/A" ,,HOMEM ARANHA 2
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/696?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="HOMEM DE FERRO 2" tvg-logo="Logo N/A" ,,HOMEM DE FERRO 2
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/698?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="ID FHD" tvg-logo="Logo N/A" ,,ID FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2336?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="ID FHDR" tvg-logo="Logo N/A" ,,ID FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2132?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="INVESTIGAÇAO CRIMINAL" tvg-logo="Logo N/A" ,,INVESTIGAÇAO CRIMINAL
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/668?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Investigação Discovery HD" tvg-logo="Logo N/A" ,,Investigação Discovery HD
+http://tv.factoryiptv.com:80/Denis111/Denis111/36959?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="I-SAT HD" tvg-logo="Logo N/A" ,,I-SAT HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/268?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="IURD TV" tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" ,,IURD TV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Jeca Contra o Capeta (1976)" tvg-logo="Logo N/A" ,,Jeca Contra o Capeta (1976)
+http://solutionplay.xyz:8080/movie/techruthes/10987658/4145.mp4?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="JIRAYA" tvg-logo="Logo N/A" ,,JIRAYA
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/699?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="JOHNNY BRAVO" tvg-logo="Logo N/A" ,,JOHNNY BRAVO
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/700?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="Jovem Pan News FHD" tvg-logo="Logo N/A" ,,Jovem Pan News FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4250?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="Jovem Pan News FHDR" tvg-logo="Logo N/A" ,,Jovem Pan News FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4254?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Lifetime FHD" tvg-logo="Logo N/A" ,,Lifetime FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2339?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Lifetime FHDR" tvg-logo="Logo N/A" ,,Lifetime FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4092?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Lifetime H265" tvg-logo="Logo N/A" ,,Lifetime H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2583?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="LIFETIME HD" tvg-logo="Logo N/A" ,,LIFETIME HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/269?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="LIGA DA JUSTIÇA" tvg-logo="Logo N/A" ,,LIGA DA JUSTIÇA
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/701?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Loading FHD" tvg-logo="Logo N/A" ,,Loading FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4150?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Loading H265" tvg-logo="Logo N/A" ,,Loading H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/4171?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Loading HD" tvg-logo="Logo N/A" ,,Loading HD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4151?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MAIS NA TELA 4K" tvg-logo="Logo N/A" ,,MAIS NA TELA 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/85?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Mais na Tela FHD" tvg-logo="Logo N/A" ,,Mais na Tela FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2345?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Mais na Tela FHDR" tvg-logo="Logo N/A" ,,Mais na Tela FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4088?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Mais na Tela H265" tvg-logo="Logo N/A" ,,Mais na Tela H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2585?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MASHA E O URSO" tvg-logo="Logo N/A" ,,MASHA E O URSO
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/702?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Mega TV FHD" tvg-logo="Logo N/A" ,,Mega TV FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4153?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Mega TV H265" tvg-logo="Logo N/A" ,,Mega TV H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/4172?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MEGAPIX 4K" tvg-logo="Logo N/A" ,,MEGAPIX 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/270?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Megapix FHD" tvg-logo="Logo N/A" ,,Megapix FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2348?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Megapix FHD [LEG]" tvg-logo="Logo N/A" ,,Megapix FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3734?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Megapix FHDR" tvg-logo="Logo N/A" ,,Megapix FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2133?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Megapix H265" tvg-logo="Logo N/A" ,,Megapix H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2586?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MEGAPIX HD" tvg-logo="Logo N/A" ,,MEGAPIX HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/271?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MORANGUINHO" tvg-logo="Logo N/A" ,,MORANGUINHO
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/703?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MTV 4K" tvg-logo="Logo N/A" ,,MTV 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/112?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MTV FHD" tvg-logo="Logo N/A" ,,MTV FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2351?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MTV FHDR" tvg-logo="Logo N/A" ,,MTV FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4090?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MTV H265" tvg-logo="Logo N/A" ,,MTV H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2587?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MTV HD" tvg-logo="Logo N/A" ,,MTV HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/422?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MTV LIVE 4K" tvg-logo="Logo N/A" ,,MTV LIVE 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/831?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MTV LIVE FHD" tvg-logo="Logo N/A" ,,MTV LIVE FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2354?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MTV LIVE FHDR" tvg-logo="Logo N/A" ,,MTV LIVE FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4089?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MTV LIVE H265" tvg-logo="Logo N/A" ,,MTV LIVE H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2588?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MTVs 00 FHD" tvg-logo="Logo N/A" ,,MTVs 00 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2507?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MTVs 00 FHDR" tvg-logo="Logo N/A" ,,MTVs 00 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4051?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MTVs 00 H265" tvg-logo="Logo N/A" ,,MTVs 00 H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2639?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Multishow FHD" tvg-logo="Logo N/A" ,,Multishow FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2357?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Multishow FHDR" tvg-logo="Logo N/A" ,,Multishow FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2134?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Multishow H265" tvg-logo="Logo N/A" ,,Multishow H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2589?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="MULTISHOW HD" tvg-logo="Logo N/A" ,,MULTISHOW HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/423?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Music" tvg-id="EPG N/A" tvg-name="MUSIC BOX  4K" tvg-logo="Logo N/A" ,,MUSIC BOX  4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/424?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Music" tvg-id="EPG N/A" tvg-name="Music Box Brazil FHD" tvg-logo="Logo N/A" ,,Music Box Brazil FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2360?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Music" tvg-id="EPG N/A" tvg-name="Music Box Brazil FHDR" tvg-logo="Logo N/A" ,,Music Box Brazil FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4087?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Music" tvg-id="EPG N/A" tvg-name="Music Box Brazil H265" tvg-logo="Logo N/A" ,,Music Box Brazil H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2590?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="NARUTO" tvg-logo="Logo N/A" ,,NARUTO
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/704?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Kids" tvg-id="EPG N/A" tvg-name="Nat Geo Kids FHD" tvg-logo="Logo N/A" ,,Nat Geo Kids FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2363?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Kids" tvg-id="EPG N/A" tvg-name="Nat Geo Kids FHDR" tvg-logo="Logo N/A" ,,Nat Geo Kids FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4086?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Kids" tvg-id="EPG N/A" tvg-name="Nat Geo Kids H265" tvg-logo="Logo N/A" ,,Nat Geo Kids H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2591?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="NAT GEO WILD 4K" tvg-logo="Logo N/A" ,,NAT GEO WILD 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/86?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Nat Geo Wild FHD" tvg-logo="Logo N/A" ,,Nat Geo Wild FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2366?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Nat Geo Wild FHDR" tvg-logo="Logo N/A" ,,Nat Geo Wild FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2135?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Nat Geo Wild H265" tvg-logo="Logo N/A" ,,Nat Geo Wild H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2592?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Kids" tvg-id="EPG N/A" tvg-name="NATGEO KIDS 4K" tvg-logo="Logo N/A" ,,NATGEO KIDS 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/361?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Kids" tvg-id="EPG N/A" tvg-name="NATGEO KIDS HD" tvg-logo="Logo N/A" ,,NATGEO KIDS HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/362?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="NATIONAL GEOGRAPHIC 4K" tvg-logo="Logo N/A" ,,NATIONAL GEOGRAPHIC 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/87?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="National Geographic FHD" tvg-logo="Logo N/A" ,,National Geographic FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2369?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="National Geographic FHDR" tvg-logo="Logo N/A" ,,National Geographic FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2136?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="National Geographic H265" tvg-logo="Logo N/A" ,,National Geographic H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2593?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="Logo N/A" ,,NATIONAL GEOGRAPHIC HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/88?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="NHK HD" tvg-logo="Logo N/A" ,,NHK HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/450?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="NICK JR 4K" tvg-logo="Logo N/A" ,,NICK JR 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/363?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="NICK JR HD" tvg-logo="Logo N/A" ,,NICK JR HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/364?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Nick Jr. FHD" tvg-logo="Logo N/A" ,,Nick Jr. FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2372?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Nick Jr. FHDR" tvg-logo="Logo N/A" ,,Nick Jr. FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4085?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Nick Jr. H265" tvg-logo="Logo N/A" ,,Nick Jr. H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2594?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Nick Jr. HD" tvg-logo="Logo N/A" ,,Nick Jr. HD
+http://tv.factoryiptv.com:80/Denis111/Denis111/36908?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="NICKELODEON 4K" tvg-logo="Logo N/A" ,,NICKELODEON 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/365?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Nickelodeon FHD" tvg-logo="Logo N/A" ,,Nickelodeon FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2375?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Nickelodeon FHDR" tvg-logo="Logo N/A" ,,Nickelodeon FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2137?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Nickelodeon H265" tvg-logo="Logo N/A" ,,Nickelodeon H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2595?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="NICKELODEON HD" tvg-logo="Logo N/A" ,,NICKELODEON HD
+http://solutionplay.xyz:8080/techruthes/10987658/5985?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="NICKELODEON HD" tvg-logo="Logo N/A" ,,NICKELODEON HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/768?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="NOVO TEMPO HD" tvg-logo="Logo N/A" ,,NOVO TEMPO HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/556?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Ocko Star" tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" ,,Ocko Star
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="OFF FHD" tvg-logo="Logo N/A" ,,OFF FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2378?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="OFF FHDR" tvg-logo="Logo N/A" ,,OFF FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2138?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="OFF H265" tvg-logo="Logo N/A" ,,OFF H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2596?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Off HD" tvg-logo="Logo N/A" ,,Off HD
+http://tv.factoryiptv.com:80/Denis111/Denis111/36954?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="OFF HD" tvg-logo="Logo N/A" ,,OFF HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/274?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="ONE PIECE EAST BLUE" tvg-logo="Logo N/A" ,,ONE PIECE EAST BLUE
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/705?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="OS FLINSTONES" tvg-logo="Logo N/A" ,,OS FLINSTONES
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/706?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="OS JETSON" tvg-logo="Logo N/A" ,,OS JETSON
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/707?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="OS PADRINHOS MAGICOS" tvg-logo="Logo N/A" ,,OS PADRINHOS MAGICOS
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/708?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="OS PATOS" tvg-logo="Logo N/A" ,,OS PATOS
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/709?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="OS SIMPSONS" tvg-logo="Logo N/A" ,,OS SIMPSONS
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/710?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Pai Eterno FHD" tvg-logo="Logo N/A" ,,Pai Eterno FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2381?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Pai Eterno FHDR" tvg-logo="Logo N/A" ,,Pai Eterno FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4084?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Pai Eterno H265" tvg-logo="Logo N/A" ,,Pai Eterno H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2597?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Paramount Channel HD" tvg-logo="Logo N/A" ,,Paramount Channel HD
+http://tv.factoryiptv.com:80/Denis111/Denis111/36953?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Paramount Network FHD" tvg-logo="Logo N/A" ,,Paramount Network FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2384?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Paramount Network FHDR" tvg-logo="Logo N/A" ,,Paramount Network FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/3695?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Paramount Network H265" tvg-logo="Logo N/A" ,,Paramount Network H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2598?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Polishop TV SD" tvg-logo="Logo N/A" ,,Polishop TV SD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4156?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 2 FHD" tvg-logo="Logo N/A" ,,Premiere 2 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2390?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 2 FHDR" tvg-logo="Logo N/A" ,,Premiere 2 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4082?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 2 H265" tvg-logo="Logo N/A" ,,Premiere 2 H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2600?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 3 FHD" tvg-logo="Logo N/A" ,,Premiere 3 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2393?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 3 FHDR" tvg-logo="Logo N/A" ,,Premiere 3 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4081?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 3 H265" tvg-logo="Logo N/A" ,,Premiere 3 H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2601?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 4 FHD" tvg-logo="Logo N/A" ,,Premiere 4 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2396?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 4 FHDR" tvg-logo="Logo N/A" ,,Premiere 4 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4080?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 4 H265" tvg-logo="Logo N/A" ,,Premiere 4 H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2602?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 5 FHD" tvg-logo="Logo N/A" ,,Premiere 5 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2399?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 5 FHDR" tvg-logo="Logo N/A" ,,Premiere 5 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4079?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 5 H265" tvg-logo="Logo N/A" ,,Premiere 5 H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2603?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 6 FHD" tvg-logo="Logo N/A" ,,Premiere 6 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2402?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 6 FHDR" tvg-logo="Logo N/A" ,,Premiere 6 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4078?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 6 H265" tvg-logo="Logo N/A" ,,Premiere 6 H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2604?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 7 FHD" tvg-logo="Logo N/A" ,,Premiere 7 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2405?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 7 FHDR" tvg-logo="Logo N/A" ,,Premiere 7 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4077?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 7 H265" tvg-logo="Logo N/A" ,,Premiere 7 H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2605?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere 8 SD" tvg-logo="Logo N/A" ,,Premiere 8 SD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2104?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere Clubes FHD" tvg-logo="Logo N/A" ,,Premiere Clubes FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2408?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere Clubes FHDR" tvg-logo="Logo N/A" ,,Premiere Clubes FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2139?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Premiere Clubes H265" tvg-logo="Logo N/A" ,,Premiere Clubes H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2606?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Prime Box Brazil FHD" tvg-logo="Logo N/A" ,,Prime Box Brazil FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2411?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Prime Box Brazil FHDR" tvg-logo="Logo N/A" ,,Prime Box Brazil FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4076?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Prime Box Brazil H265" tvg-logo="Logo N/A" ,,Prime Box Brazil H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2607?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="PUC TV Goiás" tvg-logo="Logo N/A" ,,PUC TV Goiás
+http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/11312?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="RAI SD" tvg-logo="Logo N/A" ,,RAI SD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2105?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="RDC" tvg-logo="https://listaiptv.gratis/logos/imagens/jn5adsaa.jpg" ,,RDC
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="RECORD DF HD" tvg-logo="Logo N/A" ,,RECORD DF HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/522?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="RECORD HD" tvg-logo="Logo N/A" ,,RECORD HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/523?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="RECORD NEWS FHD" tvg-logo="Logo N/A" ,,RECORD NEWS FHD
+http://solutionplay.xyz:8080/techruthes/10987658/6104?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="RECORD NEWS U4K" tvg-logo="Logo N/A" ,,RECORD NEWS U4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/451?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="RECORD PARANA HD" tvg-logo="Logo N/A" ,,RECORD PARANA HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/526?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="RECORD SP INTERIOR HD" tvg-logo="Logo N/A" ,,RECORD SP INTERIOR HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/528?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="RecordTV SP FHD" tvg-logo="Logo N/A" ,,RecordTV SP FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3831?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="RecordTV SP H265" tvg-logo="Logo N/A" ,,RecordTV SP H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/4173?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="REDE BRASIL HD" tvg-logo="Logo N/A" ,,REDE BRASIL HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/531?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Rede Gospel FHD" tvg-logo="Logo N/A" ,,Rede Gospel FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4158?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Rede Gospel H265" tvg-logo="Logo N/A" ,,Rede Gospel H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/4174?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="REDE TV FHD" tvg-logo="Logo N/A" ,,REDE TV FHD
+http://solutionplay.xyz:8080/techruthes/10987658/6331?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Rede UTV" tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" ,,Rede UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Rede Vida FHD" tvg-logo="Logo N/A" ,,Rede Vida FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2414?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Rede Vida FHDR" tvg-logo="Logo N/A" ,,Rede Vida FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4075?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Rede Vida H265" tvg-logo="Logo N/A" ,,Rede Vida H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2608?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="REDE VIDA HD" tvg-logo="Logo N/A" ,,REDE VIDA HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/113?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="RedeTV SP FHD" tvg-logo="Logo N/A" ,,RedeTV SP FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3834?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="RedeTV SP H265" tvg-logo="Logo N/A" ,,RedeTV SP H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/4175?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="RedeTV!" tvg-logo="Logo N/A" ,,RedeTV!
+http://tv.factoryiptv.com:80/Denis111/Denis111/37012?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="RedeTV! HD" tvg-logo="Logo N/A" ,,RedeTV! HD
+http://tv.factoryiptv.com:80/Denis111/Denis111/36946?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="REINO GELADO" tvg-logo="Logo N/A" ,,REINO GELADO
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/722?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Retrô TV" tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" ,,Retrô TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Sabor & Arte FHDR" tvg-logo="Logo N/A" ,,Sabor & Arte FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4203?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Sabor & Arte H265" tvg-logo="Logo N/A" ,,Sabor & Arte H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/4204?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Education" tvg-id="EPG N/A" tvg-name="Santa Cecilia TV" tvg-logo="https://i.imgur.com/KxYsq1d.png" ,,Santa Cecilia TV
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SBT 4K" tvg-logo="Logo N/A" ,,SBT 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/534?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SBT CIDADE VERDE HD" tvg-logo="Logo N/A" ,,SBT CIDADE VERDE HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/535?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SBT HD" tvg-logo="Logo N/A" ,,SBT HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/540?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SBT RJ UHD" tvg-logo="Logo N/A" ,,SBT RJ UHD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/537?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SBT SP FHD" tvg-logo="Logo N/A" ,,SBT SP FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/3837?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SBT SP H265" tvg-logo="Logo N/A" ,,SBT SP H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/4176?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SBT TV JORNAL UHD" tvg-logo="Logo N/A" ,,SBT TV JORNAL UHD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/539?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SHURATO" tvg-logo="Logo N/A" ,,SHURATO
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/724?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SIC INTERNACIONAL" tvg-logo="Logo N/A" ,,SIC INTERNACIONAL
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/453?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SILVER HAWKS" tvg-logo="Logo N/A" ,,SILVER HAWKS
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/725?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SIMON" tvg-logo="Logo N/A" ,,SIMON
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/726?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News" tvg-id="EPG N/A" tvg-name="Sky News" tvg-logo="https://listaiptv.gratis/logos/imagens/Sky-News.png" ,,Sky News
+http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/latest.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Smithsonian FHD" tvg-logo="Logo N/A" ,,Smithsonian FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2417?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Smithsonian FHDR" tvg-logo="Logo N/A" ,,Smithsonian FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4073?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Smithsonian H265" tvg-logo="Logo N/A" ,,Smithsonian H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2609?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Sony Channel" tvg-logo="Logo N/A" ,,Sony Channel
+http://tv.factoryiptv.com:80/Denis111/Denis111/37007?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SONY CHANNEL HD" tvg-logo="Logo N/A" ,,SONY CHANNEL HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/238?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SPACE 4K" tvg-logo="Logo N/A" ,,SPACE 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/278?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Space FHD" tvg-logo="Logo N/A" ,,Space FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2420?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Space FHD [LEG]" tvg-logo="Logo N/A" ,,Space FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3737?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Space FHDR" tvg-logo="Logo N/A" ,,Space FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/3696?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Space H265" tvg-logo="Logo N/A" ,,Space H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2610?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Space HD [LEG]" tvg-logo="Logo N/A" ,,Space HD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3738?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SPORT TV 1 HD PT" tvg-logo="Logo N/A" ,,SPORT TV 1 HD PT
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/167?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SPORT TV 2 HD PT" tvg-logo="Logo N/A" ,,SPORT TV 2 HD PT
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/168?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SPORT TV 3 HD PT" tvg-logo="Logo N/A" ,,SPORT TV 3 HD PT
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/169?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SPORT TV 4 HD PT" tvg-logo="Logo N/A" ,,SPORT TV 4 HD PT
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/170?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SPORT TV 5 HD PT" tvg-logo="Logo N/A" ,,SPORT TV 5 HD PT
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/171?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SPORTING HD" tvg-logo="Logo N/A" ,,SPORTING HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/805?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SPORTV 1 4K" tvg-logo="Logo N/A" ,,SPORTV 1 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/183?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SPORTV 1 HD" tvg-logo="Logo N/A" ,,SPORTV 1 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/182?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SPORTV 1 HDR" tvg-logo="Logo N/A" ,,SPORTV 1 HDR
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/178?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SPORTV 2 4K" tvg-logo="Logo N/A" ,,SPORTV 2 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/172?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SporTV 2 HD" tvg-logo="Logo N/A" ,,SporTV 2 HD
+http://tv.factoryiptv.com:80/Denis111/Denis111/36943?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SPORTV 3 4K" tvg-logo="Logo N/A" ,,SPORTV 3 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/175?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SporTV 3 HD" tvg-logo="Logo N/A" ,,SporTV 3 HD
+http://tv.factoryiptv.com:80/Denis111/Denis111/36942?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SporTV FHD" tvg-logo="Logo N/A" ,,SporTV FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2423?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SporTV FHDR" tvg-logo="Logo N/A" ,,SporTV FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2140?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SporTV H265" tvg-logo="Logo N/A" ,,SporTV H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2611?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SporTV2 FHD" tvg-logo="Logo N/A" ,,SporTV2 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2426?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SporTV2 FHDR" tvg-logo="Logo N/A" ,,SporTV2 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4072?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SporTV2 H265" tvg-logo="Logo N/A" ,,SporTV2 H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2612?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SporTV3 FHD" tvg-logo="Logo N/A" ,,SporTV3 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2429?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SporTV3 FHDR" tvg-logo="Logo N/A" ,,SporTV3 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4071?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-id="EPG N/A" tvg-name="SporTV3 H265" tvg-logo="Logo N/A" ,,SporTV3 H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2613?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="STAR CHANNEL 4K" tvg-logo="Logo N/A" ,,STAR CHANNEL 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/281?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Star Channel FHD" tvg-logo="Logo N/A" ,,Star Channel FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2270?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Star Channel FHD [LEG]" tvg-logo="Logo N/A" ,,Star Channel FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3707?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Star Channel FHDR" tvg-logo="Logo N/A" ,,Star Channel FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2123?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Star Channel H265" tvg-logo="Logo N/A" ,,Star Channel H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2560?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="STAR HITS 1 4K" tvg-logo="Logo N/A" ,,STAR HITS 1 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/283?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Star Hits 1 FHD" tvg-logo="Logo N/A" ,,Star Hits 1 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2276?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Star Hits 1 FHD [LEG]" tvg-logo="Logo N/A" ,,Star Hits 1 FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3710?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Star Hits 1 H265" tvg-logo="Logo N/A" ,,Star Hits 1 H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2562?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="STAR HITS 2 4K" tvg-logo="Logo N/A" ,,STAR HITS 2 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/285?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Star Hits 2 FHD" tvg-logo="Logo N/A" ,,Star Hits 2 FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2279?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Star Hits 2 FHD [LEG]" tvg-logo="Logo N/A" ,,Star Hits 2 FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3713?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Star Hits 2 FHDR" tvg-logo="Logo N/A" ,,Star Hits 2 FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4070?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Star Hits 2 H265" tvg-logo="Logo N/A" ,,Star Hits 2 H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2563?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Star Hits FHDR" tvg-logo="Logo N/A" ,,Star Hits FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4069?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="STAR LIFE 4K" tvg-logo="Logo N/A" ,,STAR LIFE 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/287?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Star Life FHD" tvg-logo="Logo N/A" ,,Star Life FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2273?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Star Life FHDR" tvg-logo="Logo N/A" ,,Star Life FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4068?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Star Life H265" tvg-logo="Logo N/A" ,,Star Life H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2561?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="STAR LIFE HD" tvg-logo="Logo N/A" ,,STAR LIFE HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/288?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="STAR+ 1 HD" tvg-logo="Logo N/A" ,,STAR+ 1 HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/829?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="STREET FIGHTER" tvg-logo="Logo N/A" ,,STREET FIGHTER
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/727?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="Logo N/A" ,,STUDIO UNIVERSAL 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/289?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Studio Universal FHD" tvg-logo="Logo N/A" ,,Studio Universal FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2432?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Studio Universal FHDR" tvg-logo="Logo N/A" ,,Studio Universal FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4067?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Studio Universal H265" tvg-logo="Logo N/A" ,,Studio Universal H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2614?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Studio Universal HD" tvg-logo="Logo N/A" ,,Studio Universal HD
+http://tv.factoryiptv.com:80/Denis111/Denis111/36904?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SUPER MAN" tvg-logo="Logo N/A" ,,SUPER MAN
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/728?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SUPER MAN 2" tvg-logo="Logo N/A" ,,SUPER MAN 2
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/729?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SYFY FHD" tvg-logo="Logo N/A" ,,SYFY FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2435?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SYFY FHDR" tvg-logo="Logo N/A" ,,SYFY FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4074?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SYFY H265" tvg-logo="Logo N/A" ,,SYFY H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2615?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Syfy HD" tvg-logo="Logo N/A" ,,Syfy HD
+http://tv.factoryiptv.com:80/Denis111/Denis111/36903?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="SYFY HD" tvg-logo="Logo N/A" ,,SYFY HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/781?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TBC  Brasil Central" tvg-logo="Logo N/A" ,,TBC  Brasil Central
+http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/11324?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TBS 4K" tvg-logo="Logo N/A" ,,TBS 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/290?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TBS FHD" tvg-logo="Logo N/A" ,,TBS FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2438?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TBS FHDR" tvg-logo="Logo N/A" ,,TBS FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4066?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TBS H265" tvg-logo="Logo N/A" ,,TBS H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2616?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TCM UHD" tvg-logo="Logo N/A" ,,TCM UHD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/293?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TELECINE ACTION 4K" tvg-logo="Logo N/A" ,,TELECINE ACTION 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/294?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Action FHD" tvg-logo="Logo N/A" ,,Telecine Action FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2441?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Action FHD [LEG]" tvg-logo="Logo N/A" ,,Telecine Action FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3746?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Action FHDR" tvg-logo="Logo N/A" ,,Telecine Action FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2141?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Action H265" tvg-logo="Logo N/A" ,,Telecine Action H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2617?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TELECINE CULT 4K" tvg-logo="Logo N/A" ,,TELECINE CULT 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/297?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Cult FHD" tvg-logo="Logo N/A" ,,Telecine Cult FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2444?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Cult FHD [LEG]" tvg-logo="Logo N/A" ,,Telecine Cult FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3749?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Cult H265" tvg-logo="Logo N/A" ,,Telecine Cult H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2618?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Fun FHD" tvg-logo="Logo N/A" ,,Telecine Fun FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2447?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Fun FHD [LEG]" tvg-logo="Logo N/A" ,,Telecine Fun FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3752?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Fun FHDR" tvg-logo="Logo N/A" ,,Telecine Fun FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4055?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Fun H265" tvg-logo="Logo N/A" ,,Telecine Fun H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2619?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TELECINE PIPOCA 4K" tvg-logo="Logo N/A" ,,TELECINE PIPOCA 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/303?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TELECINE PIPOCA DUAL" tvg-logo="Logo N/A" ,,TELECINE PIPOCA DUAL
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/788?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Pipoca FHD" tvg-logo="Logo N/A" ,,Telecine Pipoca FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2450?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Pipoca FHD [LEG]" tvg-logo="Logo N/A" ,,Telecine Pipoca FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3755?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Pipoca FHDR" tvg-logo="Logo N/A" ,,Telecine Pipoca FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2142?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Pipoca H265" tvg-logo="Logo N/A" ,,Telecine Pipoca H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2620?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TELECINE PIPOCA HD" tvg-logo="Logo N/A" ,,TELECINE PIPOCA HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/304?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Premium" tvg-logo="Logo N/A" ,,Telecine Premium
+http://tv.factoryiptv.com:80/Denis111/Denis111/36994?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TELECINE PREMIUM 4K" tvg-logo="Logo N/A" ,,TELECINE PREMIUM 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/306?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TELECINE PREMIUM DUAL" tvg-logo="Logo N/A" ,,TELECINE PREMIUM DUAL
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/787?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Premium FHD" tvg-logo="Logo N/A" ,,Telecine Premium FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2453?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Premium FHD [LEG]" tvg-logo="Logo N/A" ,,Telecine Premium FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3758?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Premium FHDR" tvg-logo="Logo N/A" ,,Telecine Premium FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2143?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Premium H265" tvg-logo="Logo N/A" ,,Telecine Premium H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2621?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TELECINE PREMIUM HD" tvg-logo="Logo N/A" ,,TELECINE PREMIUM HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/307?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TELECINE TOUCH 4K" tvg-logo="Logo N/A" ,,TELECINE TOUCH 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/309?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Touch FHD" tvg-logo="Logo N/A" ,,Telecine Touch FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2456?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Touch FHD [LEG]" tvg-logo="Logo N/A" ,,Telecine Touch FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3761?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Touch FHDR" tvg-logo="Logo N/A" ,,Telecine Touch FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4054?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Telecine Touch H265" tvg-logo="Logo N/A" ,,Telecine Touch H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2622?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TELECINE TOUCH HD" tvg-logo="Logo N/A" ,,TELECINE TOUCH HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/310?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TIMAO E PUMBA" tvg-logo="Logo N/A" ,,TIMAO E PUMBA
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/731?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TLC 4K" tvg-logo="Logo N/A" ,,TLC 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/91?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TLC FHD" tvg-logo="Logo N/A" ,,TLC FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2459?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TLC FHDR" tvg-logo="Logo N/A" ,,TLC FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4065?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TLC H265" tvg-logo="Logo N/A" ,,TLC H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2623?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TNT 4K" tvg-logo="Logo N/A" ,,TNT 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/312?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TNT FHD" tvg-logo="Logo N/A" ,,TNT FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2462?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TNT FHD [LEG]" tvg-logo="Logo N/A" ,,TNT FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3740?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TNT FHDR" tvg-logo="Logo N/A" ,,TNT FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2144?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TNT H265" tvg-logo="Logo N/A" ,,TNT H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2624?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TNT SERIES 4K" tvg-logo="Logo N/A" ,,TNT SERIES 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/314?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TNT Series FHD" tvg-logo="Logo N/A" ,,TNT Series FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2465?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TNT Series FHD [LEG]" tvg-logo="Logo N/A" ,,TNT Series FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3743?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TNT Series FHDR" tvg-logo="Logo N/A" ,,TNT Series FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/2145?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="Logo N/A" ,,TODO MUNDO ODEIA O CRIS
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/732?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TOM & JERRY" tvg-logo="Logo N/A" ,,TOM & JERRY
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/733?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TOONCAST 4K" tvg-logo="Logo N/A" ,,TOONCAST 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/367?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Trace Brazuca FHD" tvg-logo="Logo N/A" ,,Trace Brazuca FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2468?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Trace Brazuca FHDR" tvg-logo="Logo N/A" ,,Trace Brazuca FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4053?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Trace Brazuca H265" tvg-logo="Logo N/A" ,,Trace Brazuca H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2626?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Aberta" tvg-logo="Logo N/A" ,,TV Aberta
+http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/11355?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV AD-Belém" tvg-logo="Logo N/A" ,,TV AD-Belém
+http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/11376?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV ALBA" tvg-logo="Logo N/A" ,,TV ALBA
+http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/11311?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Aparecida" tvg-logo="Logo N/A" ,,TV Aparecida
+http://tv.factoryiptv.com:80/Denis111/Denis111/37003?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Aparecida FHD" tvg-logo="Logo N/A" ,,TV Aparecida FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2474?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Aparecida FHDR" tvg-logo="Logo N/A" ,,TV Aparecida FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4064?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Aparecida H265" tvg-logo="Logo N/A" ,,TV Aparecida H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2628?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV APARECIDA HD" tvg-logo="Logo N/A" ,,TV APARECIDA HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/542?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV ASSEMBLEIA" tvg-logo="Logo N/A" ,,TV ASSEMBLEIA
+http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/11392?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Assembléia Piauí" tvg-logo="Logo N/A" ,,TV Assembléia Piauí
+http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/11367?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Atividade" tvg-logo="Logo N/A" ,,TV Atividade
+http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/11328?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV BRASIL 4K" tvg-logo="Logo N/A" ,,TV BRASIL 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/544?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Brasil FHD" tvg-logo="Logo N/A" ,,TV Brasil FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2477?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Brasil H265" tvg-logo="Logo N/A" ,,TV Brasil H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2629?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV CULTURA UHD" tvg-logo="Logo N/A" ,,TV CULTURA UHD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/547?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Gazeta FHD" tvg-logo="Logo N/A" ,,TV Gazeta FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4147?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Metrópole" tvg-logo="Logo N/A" ,,TV Metrópole
+http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/11382?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Novo Tempo FHD" tvg-logo="Logo N/A" ,,TV Novo Tempo FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2489?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Novo Tempo H265" tvg-logo="Logo N/A" ,,TV Novo Tempo H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2633?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Religious;Undefined" tvg-id="EPG N/A" tvg-name="TV Pai Eterno (Backup)" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" ,,TV Pai Eterno (Backup)
+http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV RA TIM BUM 4K" tvg-logo="Logo N/A" ,,TV RA TIM BUM 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/369?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Ra Tim Bum FHD" tvg-logo="Logo N/A" ,,TV Ra Tim Bum FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2495?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Ra Tim Bum FHDR" tvg-logo="Logo N/A" ,,TV Ra Tim Bum FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4058?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Ra Tim Bum H265" tvg-logo="Logo N/A" ,,TV Ra Tim Bum H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2635?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV RA TIM BUM HD" tvg-logo="Logo N/A" ,,TV RA TIM BUM HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/557?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV Universal" tvg-logo="Logo N/A" ,,TV Universal
+http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/11351?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TV VERDES MARES FORTALEZA 4K" tvg-logo="Logo N/A" ,,TV VERDES MARES FORTALEZA 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/566?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="tvc canal 16" tvg-logo="Logo N/A" ,,tvc canal 16
+http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/11389?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="TVE" tvg-logo="Logo N/A" ,,TVE
+http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/11327?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="Logo N/A" ,,UNIVERSAL CHANNEL HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/319?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Universal TV FHDR" tvg-logo="Logo N/A" ,,Universal TV FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/3697?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Universal TV H265" tvg-logo="Logo N/A" ,,Universal TV H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2638?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Venus SD" tvg-logo="Logo N/A" ,,Venus SD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2114?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Via Morena" tvg-logo="Logo N/A" ,,Via Morena
+http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/11402?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Vintage TV" tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" ,,Vintage TV
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="VIVA 4K" tvg-logo="Logo N/A" ,,VIVA 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/114?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="VIVA HD" tvg-logo="Logo N/A" ,,VIVA HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/116?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="WARNER CHANNEL 4K" tvg-logo="Logo N/A" ,,WARNER CHANNEL 4K
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/783?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Warner Channel FHD" tvg-logo="Logo N/A" ,,Warner Channel FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2513?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Warner Channel FHD [LEG]" tvg-logo="Logo N/A" ,,Warner Channel FHD [LEG]
+http://srv-source.stream:80/toptv/XGmvmQefc3/3764?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Warner Channel H265" tvg-logo="Logo N/A" ,,Warner Channel H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2641?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Woohoo FHD" tvg-logo="Logo N/A" ,,Woohoo FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2516?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Woohoo FHDR" tvg-logo="Logo N/A" ,,Woohoo FHDR
+http://srv-source.stream:80/toptv/XGmvmQefc3/4049?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Woohoo H265" tvg-logo="Logo N/A" ,,Woohoo H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/2642?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General" tvg-id="EPG N/A" tvg-name="Yeeaah!" tvg-logo="https://i.imgur.com/TxdOyKS.png" ,,Yeeaah!
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Zoomoo FHD" tvg-logo="Logo N/A" ,,Zoomoo FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/4162?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Zoomoo H265" tvg-logo="Logo N/A" ,,Zoomoo H265
+http://srv-source.stream:80/toptv/XGmvmQefc3/4177?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-id="EPG N/A" tvg-name="Canal do Boi FHD" tvg-logo="Logo N/A" ,,Canal do Boi FHD
+http://srv-source.stream:80/toptv/XGmvmQefc3/2180?checkedby:iptvcat.com
